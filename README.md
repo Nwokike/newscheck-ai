@@ -124,7 +124,7 @@ This is the official list of datasets for the project. Contributors working on a
     ```
 2.  Navigate to the directory:
     ```bash
-    cd newsguard-ai
+    cd newscheck-ai
     ```
 3.  Create a virtual environment:
     ```bash
